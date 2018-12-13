@@ -1,4 +1,8 @@
 
+
+when multiple nodes are deployed, use RedisStorage to implement blacklist data sharing between different nodes
+
+
 ![jwt-auth-banner](https://cloud.githubusercontent.com/assets/1801923/9915273/119b9350-5cae-11e5-850b-c941cac60b32.png)
 
 [![Build Status](http://img.shields.io/travis/tymondesigns/jwt-auth/master.svg?style=flat-square)](https://travis-ci.org/tymondesigns/jwt-auth)
